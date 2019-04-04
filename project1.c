@@ -1,7 +1,19 @@
+#include <stdio.h>
 
-Bamn and the dirt is gone!!!!!!
-Bamn and the dirt is gone!!!!!!
-Bamn and the dirt is gone!!!!!!
-Bamn and the dirt is gone!!!!!!
-Bamn and the dirt is gone!!!!!!
-Bamn and the dirt is gone!!!!!!
+
+int main(){
+    
+    //char 
+    //int k
+   // int 
+    
+    
+    printf("Enter Message\n");//Message for Encription/Decription
+    
+    
+    
+    
+    
+ return 0;   
+    
+}
